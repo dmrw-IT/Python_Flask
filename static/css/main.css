@@ -24,6 +24,10 @@ input {
     font-size: 1.3em;
 }
 
+input:focus {
+    border: solid 5px #00FFCE;
+}
+
 #greet {
     background-color: palevioletred;
     color: white;
